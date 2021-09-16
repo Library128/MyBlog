@@ -1,3 +1,3 @@
 # README
 
-I lake Ruby
+I like Ruby
